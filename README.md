@@ -1,6 +1,6 @@
 # 简介
 这是一个伪饿了么移动端的单页面（SPA）应用
-基于https://github.com/bailicangdu/vue2-elm项目的vue2练手项目，沿用了结构和样式，然后自己重新使用vue2搭建
+基于https://github.com/bailicangdu/vue2-elm 项目的vue2练手项目，沿用了结构和样式，然后自己重新使用vue2搭建
 接口文档：https://github.com/bailicangdu/node-elm/blob/master/API.md
 
 # 想法
